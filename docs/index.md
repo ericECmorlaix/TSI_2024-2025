@@ -426,7 +426,7 @@
 
 ***
 
-## Du 03/09
+## Les 03 et 06/09
 
 === "CONTENU DE SÉANCE"
 
