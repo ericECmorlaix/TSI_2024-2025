@@ -426,10 +426,12 @@
 
 ***
 
-## Les 03 et 06/09
+## Les 03, 06, 10 et 13/09
 
 === "CONTENU DE SÉANCE"
 
+    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `WWJ9ZDMSP` ;
+    
     - **Organiser** [un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**Reprendre** en main l'environnement web de Visual Studio Code depuis votre iPad et depuis un des PC du labo de SI pour gérer vos fichiers== ;
 
     - **Faire** l'étude des actions mécaniques du système [béquille de moto](./AM/Actions_Mecaniques-Bequille_De_Moto.pdf){target=_blank} -> ==**Compléter** le [notebook jupyter](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){target=_blank}== ;
