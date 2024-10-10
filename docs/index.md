@@ -402,14 +402,14 @@
 === "CONTENU DE SÉANCE"
 
     - Correction [de l'équilibre du buggy T2M Black Pirate sur sol horizontal](./AM/statique_vehicule.md){target=_blank} ;
-    - **Revoir* les études de [cinématique, de transmission de puissance et d'énergétique du Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank}
+    - **Revoir** les études de [cinématique, de transmission de puissance et d'énergétique du Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank}
      ainsi que son étude [statique](./AM/AM_Cozmo.pdf){target=_blank} ; 
 
     
 === "TRAVAIL À FAIRE"
 
     - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
-    - *Se préparer** pour une évaluation écrite le 17/10 ;
+    - **Se préparer** pour une évaluation écrite le 17/10 ;
 
 
 ***
