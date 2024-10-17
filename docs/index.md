@@ -394,8 +394,27 @@
     - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **transmettre** votre notebook jupyter complété par [mail] ;
  -->
 
+***
+## Les 17 et 18/10
 
+=== "CONTENU DE SÉANCE"
 
+    - Evaluation [Robot Camper Trolley](./SU/Revisions_TSI-Camper_trolley.pdf) ;
+    - **Reprendre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
+        - **Revoir** les [Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} et [Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+        - **Faire** le [Parcours_3.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){target=_blank} [Capytale n° 093a-4361021](https://capytale2.ac-paris.fr/web/c/093a-4361021){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){ .md-button .md-button--primary} ;
+
+        > **notez vos codes personnels pour chaque parcours pour y retourner d'une fois sur l'autre et **conservez** progressivement une trace de vos scripts sur Capytale et dans votre classeur numérique.
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - ==DERNIER RAPPEL== **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+
+    - **Finir** en DM l'étude du [Robot Camper Trolley](./SU/Revisions_TSI-Camper_trolley.pdf) ;
+
+    - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
+    
 ***
 ## Les 11 et 15/10
 
