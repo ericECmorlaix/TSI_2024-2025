@@ -418,6 +418,8 @@
 === "TRAVAIL À FAIRE"
 
     - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
+
+    - **Revoir** la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} ;
     
 
 ***
