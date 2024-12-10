@@ -16,17 +16,17 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Schéma
 
-<!-- ![](./Schema-vehicule-plat.jpg){.center width=50%} -->
+![](./Schema-vehicule-plat.jpg){.center width=50%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
 
-<!-- ![](./BAME-vehicule-plat.jpg){.center width=50%} -->
+![](./BAME-vehicule-plat.jpg){.center width=50%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ??? abstract "Principe fondamental de la statique"
 
@@ -37,15 +37,15 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ??? tip "Calcul du moment d'une force"
 
-    <!-- ![](Calcul_moment.jpg){.center width=50%} -->
+    ![](Calcul_moment.jpg){.center width=50%}
 
-    ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+    <!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ##### Résolution
 
-<!-- ![](./Resolution-vehicule-plat.jpg){.center width=90%} -->
+![](./Resolution-vehicule-plat.jpg){.center width=90%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ??? example "Application"
 
@@ -63,7 +63,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     ...
 
     ...
-<!-- 
+ 
 
 ### Sur un sol en pente 
 
@@ -71,12 +71,16 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Schéma
 
-![](Schema-vehicule-pente.jpg){.center width=60%}
+<!-- ![](Schema-vehicule-pente.jpg){.center width=60%} -->
+
+![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
-![](BAME-vehicule-pente.jpg){.center width=60%}
+<!-- ![](BAME-vehicule-pente.jpg){.center width=60%} -->
+
+![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
 ??? abstract "Principe fondamental de la statique"
 
@@ -112,7 +116,9 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
 ##### Résolution
 
-![](./Resolution-vehicule-pente.jpg){.center width=90%}
+<!-- ![](./Resolution-vehicule-pente.jpg){.center width=90%} -->
+
+![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
 ??? example "Application"
 
