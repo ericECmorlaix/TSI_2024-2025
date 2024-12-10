@@ -393,6 +393,18 @@
 
     - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **transmettre** votre notebook jupyter complété par [mail] ;
  -->
+
+***
+## Le 10/12
+
+=== "CONTENU DE SÉANCE"
+
+    - [Modélisation de l'équilibre d'un véhicule à roues sur une pente](./AM/statique_vehicule.md){target=_blank} ;
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - [Application au buggy T2M Black Pirate sur une pente](./AM/statique_vehicule.md){target=_blank} ;
  
 ***
 ## Du 05/11
