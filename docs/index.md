@@ -395,11 +395,12 @@
  -->
 
 ***
-## Le 10/12
+## Du 10/12
 
 === "CONTENU DE SÉANCE"
 
     - [Modélisation de l'équilibre d'un véhicule à roues sur une pente](./AM/statique_vehicule.md){target=_blank} ;
+    - **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
 
     
 === "TRAVAIL À FAIRE"
