@@ -295,9 +295,7 @@
     
     -    
     - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
-    - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
-        - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
-        - **conserver** progressivement une trace de vos scripts...
+
 
 ***
 ## Les 12, 14 et 19/12
@@ -314,9 +312,7 @@
     
     - ==**Se préparer** pour une évaluation d'énergétique et de dynamique en translation et en rotation pour le 20/12== ;    
     - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
-    - **Reprendre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
-        - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
-        - **conserver** progressivement une trace de vos scripts...
+
 
 ***
 ## Les 05 et 07/12
@@ -330,9 +326,18 @@
 
     - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
 
+
 ***
 
-## Les 28 et 30/11
+## Le 21/11 (2h)
+
+- Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
+
+-->
+
+***
+
+## Le 13/12
 
 === "CONTENU DE SÉANCE"
 
@@ -342,57 +347,6 @@
 === "TRAVAIL À FAIRE"
 
     - **Finir** [l'étude du comportement dynamique d'un solide en translation appliquée au Buggy](./AM/dynamique_translation.md){target=_blank} ;
-
-***
-
-## Le 21/11 (2h)
-
-- Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
-
-## Le 14 (en autonomie), 16 et 23/11 (2h + 1h + 1h)
-
-=== "CONTENU DE SÉANCE"
-
-    - **Revoir** la partie **"Comprendre"** du [TP de découverte du fonctionnement des réseaux informatiques par la pratique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2024-2025/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
-
-    - **Lire** le cours puis **faire** les exercices de synthèse sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application au [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
-    - **Finir** en DM le sujet type bac : [Camper_trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
-
-***
-## Les 10, 12, 17, 19/10, 07 et 09/11
-
-=== "CONTENU DE SÉANCE"
-
-    - **Faire** le sujet type bac : [Camper_trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-    
-    - **Finaliser** les travaux de projet pour la fête de la science reportée au lundi 13/11 ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** en DM le sujet type bac : [Camper_trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
-
-***
-## Du 26/09 au 28/09 (2h)
-
-=== "CONTENU DE SÉANCE"
-
-    - Retour sur le T.A.F. ;
-    
-    - Etude des actions mécaniques : [Modélisation de l'équilibre d'un véhicule sur une pente avec frottement et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
-
-    - Travaux de projet pour la fête de la science ;
-
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **transmettre** votre notebook jupyter complété par [mail] ;
- -->
 
 ***
 ## Du 10/12
