@@ -347,6 +347,8 @@
 === "TRAVAIL À FAIRE"
 
     - **Finir** [l'étude du comportement dynamique d'un solide en translation appliquée au Buggy](./AM/dynamique_translation.md){target=_blank} ;
+    - **Répondre** aux questions 14 à 19 du sujet [Camper Trolley](./SU/Camper_Sujet-2012.pdf) ;
+    - **Répondre** aux questions 1 à 10 du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) ;
 
 ***
 ## Du 10/12
