@@ -166,9 +166,17 @@ $ - 190 \times m \times g + 190 \times \|\overrightarrow{K_{sol \to S}}\| \times
 
 $ 335 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha}  = 190 \times m \times g + 45 \times m \times a_G$
 
-$\|\overrightarrow{K_{sol \to S}}\| =  {190 \times m \times g + 45 \times m \times a_G \over 335 \times \cos{\alpha}}$
 
-alors **(2)** => $\|\overrightarrow{L_{sol \to S}}\| =  {(335-190) \times m \times g - 45 \times m \times a_G \over 335 \times \cos{\alpha}}$
+
+$\overrightarrow{K_{sol \to S}} \cdot \overrightarrow{y} = \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} =  {190 \times m \times g + 45 \times m \times a_G \over 335}$
+
+alors **(2)** => $\overrightarrow{L_{sol \to S}} \cdot \overrightarrow{y} = \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} =  {(335-190) \times m \times g - 45 \times m \times a_G \over 335}$
+
+Pour $a_G = 1,5 \times g$, on obtient la répartition de la charge en calculant les composantes verticales des actions mécaniques du sol sur chaque roue en K et en L
+
+$\overrightarrow{K_{sol \to S}} \cdot \overrightarrow{y} =  {3,6 \times (190 \times g + 45 \times 1,5 \times g) \over 335} = {3,6 \times 9,81 \times 257,5 \over 335} = 27,15 \;\mathrm{N}$
+$\overrightarrow{L_{sol \to S}} \cdot \overrightarrow{y} =  {3,6 \times (145 \times g - 45 \times 1,5 \times g) \over 335} = {3,6 \times 9,81 \times 77,5 \over 335} = 8,17 \;\mathrm{N}$
+
 
 ***
 
@@ -206,11 +214,11 @@ $\tan{\alpha} = {145 \over 45} = 3,22$ donc on risque de cabrer à partir de $a_
 ***
 #### Discuter si les phénomènes de transfert de charge et de cabrage sont bénéfiques à la propulsion et/ou à la traction d’un véhicule automobile...
 
-$\|\overrightarrow{L_{sol \to S}}\| =  {145 \times m \times g - 45 \times m \times a_G \over 335 \times \cos{\alpha}}$
+$\overrightarrow{K_{sol \to S}} \cdot \overrightarrow{y} = =  {145 \times m \times g - 45 \times m \times a_G \over 335}$
 
-En accélérant, on enlève ${45 \times m \times a_G \over 335 \times \cos{\alpha}}$ de charge de l'avant que l'on rajoute à l'arrière
+En accélérant, on enlève ${45 \times m \times a_G \over 335} = 7,12 \;\mathrm{N}$ de charge de l'avant que l'on rajoute à l'arrière
 
-$\|\overrightarrow{K_{sol \to S}}\| =  {190 \times m \times g + 45 \times m \times a_G \over 335 \times \cos{\alpha}}$
+$\overrightarrow{L_{sol \to S}} \cdot \overrightarrow{y} = {190 \times m \times g + 45 \times m \times a_G \over 335}$
 
 Donc une propulsion est plus favorable qu'une traction en phase d'accélération car la force de pression étant plus grande à l'arrière, pour un coeficient d'adhérence donné, la force de propulsion sera également plus grande proportionnelement tel que $\|\overrightarrow{T}\| = f \times \|\overrightarrow{N}\|$.
 
