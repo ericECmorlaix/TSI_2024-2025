@@ -334,6 +334,18 @@
 - Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
 
 -->
+***
+
+## Le 07/01
+
+=== "CONTENU DE SÉANCE"
+    
+    - Etudes du comportement dynamique du X-Track : [Sujet](./SU/X-track_Dynamique.pdf){target=_blank}, [DT et DR](./SU/X-track_DR-DT.pdf){target=_blank};
+    - Etudes du comportement dynamique du MELODY : [Sujet](./SU/MELODY-Dynamique.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** les études de cas... ;
 
 ***
 
@@ -347,7 +359,7 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **Se préparer** pour une évaluation sur le comportement dynamique d'un solide en translation ;
+    - **Se préparer** pour une évaluation sur le comportement dynamique d'un solide ;
     - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
 
 ***
