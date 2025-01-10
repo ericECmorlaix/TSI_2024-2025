@@ -345,7 +345,8 @@
 
 === "TRAVAIL À FAIRE"
     
-    - **Finir** les études de cas... ;
+    - **Finir** les études du comportement dynamique du [X-Track, Q19](./SU/X-track_Dynamique.pdf){target=_blank} et du [MELODY](./SU/MELODY-Dynamique.pdf){target=_blank} ;
+    - **Faire** les études du comportement statique du [HOBOT](./SU/hobot-statique.pdf) et du [MELODY](./SU/MELODY-Statique.pdf) ;
 
 ***
 
