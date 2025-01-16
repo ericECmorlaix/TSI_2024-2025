@@ -336,6 +336,22 @@
 -->
 ***
 
+## Le 16/01
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Analyser** les [courbes caractéristiques du moteur à courant continu "RS 775"](./SU/exercice_courbes_caracteristiques_mcc.pdf){target=_blank} ;
+    - **S'entrainer** pour le Bac Blanc avec le sujet du [RTT](./SU/RobotSurveillanceTousTerrains.pdf)
+    
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** les études du comportement dynamique du X-Track : [Sujet](./SU/X-track_Dynamique.pdf){target=_blank}, [DT et DR](./SU/X-track_DR-DT.pdf){target=_blank};
+    - **Finir** les études du comportement dynamique du MELODY : [Sujet](./SU/MELODY-Dynamique.pdf){target=_blank} ;
+    - **Finir** les études du comportement dynamique du [X-Track, Q19](./SU/X-track_Dynamique.pdf){target=_blank} et du [MELODY](./SU/MELODY-Dynamique.pdf){target=_blank} ;
+    - **Finir** les études du comportement statique du [HOBOT](./SU/hobot-statique.pdf) et du [MELODY](./SU/MELODY-Statique.pdf) ;
+
+***
+
 ## Le 07/01
 
 === "CONTENU DE SÉANCE"
