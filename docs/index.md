@@ -345,8 +345,6 @@
     
 === "TRAVAIL À FAIRE"
     
-    - **Finir** les études du comportement dynamique du X-Track : [Sujet](./SU/X-track_Dynamique.pdf){target=_blank}, [DT et DR](./SU/X-track_DR-DT.pdf){target=_blank};
-    - **Finir** les études du comportement dynamique du MELODY : [Sujet](./SU/MELODY-Dynamique.pdf){target=_blank} ;
     - **Finir** les études du comportement dynamique du [X-Track, Q19](./SU/X-track_Dynamique.pdf){target=_blank} et du [MELODY](./SU/MELODY-Dynamique.pdf){target=_blank} ;
     - **Finir** les études du comportement statique du [HOBOT](./SU/hobot-statique.pdf) et du [MELODY](./SU/MELODY-Statique.pdf) ;
 
