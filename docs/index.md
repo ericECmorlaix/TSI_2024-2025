@@ -335,6 +335,22 @@
 
 -->
 ***
+## Le 23/01
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Etudier** les partie A, B, C et D du sujet [Lyre Imove 5S](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S.pdf){target="_blank"} en vous appuyant sur les documents [techniques](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DT.pdf){target="_blank"} et [réponses](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DR.pdf){target="_blank"} ;
+    
+    <!-- - **Faire** le [TP_Reseau_DMX](./DMX/TP_Reseau_DMX.pdf){target="_blank"} avec l'aide des documents [Document_ressource-Le_DMX_512](./DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](./DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](./DMX/Notice_Imove.pdf){target="_blank"} ; -->
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'étude de la [Lyre Imove 5S](./SE/LyreImove5S.pdf){target="_blank"} ;
+
+ 
+
+***
 
 ## Le 16/01
 
