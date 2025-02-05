@@ -275,56 +275,32 @@
 
     - Eléments de correction des exercices concernant les [Capteurs et les Codeurs de position](./CI/Corrections) ;
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
-    - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
-        - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
-        - **conserver** progressivement une trace de vos scripts... 
+
 ***
 ## Du 09 au 23/01
 
 === "CONTENU DE SÉANCE"
 
     - [Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider.ipynb){target="_blank"} ;[:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2024-2025/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider.ipynb){ .md-button .md-button--primary} ;
-    - Moteurs à Courant Continu : **lire** le [cours](./CP/MCC-Cours.pdf){target=_blank} et **faire** les [exercices](./CP/MCC-exercices.pdf){target=_blank} ;
+    
     - Lire le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} ;
     - Codeurs de position : **lire** le [cours](./CI/Codeur-Cours.pdf){target=_blank} et **faire** les [exercices](./CI/Codeur-exercices.pdf){target=_blank} (cf : [document ressource détection mécanique et électronique](./CI/Detection_mecanique_electronique.pdf){target=_blank}) ; 
 
-=== "TRAVAIL À FAIRE"
-    
-    -    
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
 
 
-***
-## Les 12, 14 et 19/12
 
-=== "CONTENU DE SÉANCE"
 
-    - [Etudes du comportement dynamique d'un solide en rotation et complément énergétique](./AM/dynamique_rotation.md){target=_blank} => ==Correction de l'application au Treuil== ;
+
+
            
-    - [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
+
 
     - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf); 
-
-=== "TRAVAIL À FAIRE"
-    
-    - ==**Se préparer** pour une évaluation d'énergétique et de dynamique en translation et en rotation pour le 20/12== ;    
+   
     - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
 
 
-***
-## Les 05 et 07/12
 
-=== "CONTENU DE SÉANCE"
-
-     
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
 
 
 ***
@@ -334,6 +310,20 @@
 - Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
 
 -->
+
+***
+## Du 05/02
+
+=== "CONTENU DE SÉANCE" 
+
+    - Moteurs à Courant Continu : **lire** le [cours](./CP/MCC-Cours.pdf){target=_blank} et **faire** les [exercices](./CP/MCC-exercices.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des parties A, B, C, D et E du sujet [Lyre Imove 5S](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DQ.pdf){target="_blank"} en vous appuyant sur les documents [techniques](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DT.pdf){target="_blank"} et [réponses](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DR.pdf){target="_blank"} ;
+
+    - ==**Rendre** vos travaux concernant les Moteurs à Courant Continu et la Lyre Imove 5S pour le 24/02.==
+
 ***
 ## Le 24/01
 
