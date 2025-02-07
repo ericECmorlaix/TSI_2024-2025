@@ -284,7 +284,7 @@
     - [Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider.ipynb){target="_blank"} ;[:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2024-2025/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider.ipynb){ .md-button .md-button--primary} ;
     
     - Lire le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} ;
-    - Codeurs de position : **lire** le [cours](./CI/Codeur-Cours.pdf){target=_blank} et **faire** les [exercices](./CI/Codeur-exercices.pdf){target=_blank} (cf : [document ressource détection mécanique et électronique](./CI/Detection_mecanique_electronique.pdf){target=_blank}) ; 
+     
 
 
 
@@ -317,6 +317,7 @@
 === "CONTENU DE SÉANCE" 
 
     - Moteurs à Courant Continu : **lire** le [cours](./CP/MCC-Cours.pdf){target=_blank} et **faire** les [exercices](./CP/MCC-exercices.pdf){target=_blank} ;
+    - Codeurs de position : **lire** le [cours](./CI/Codeur-Cours.pdf){target=_blank} et **faire** les [exercices](./CI/Codeur-exercices.pdf){target=_blank} (cf : [document ressource détection mécanique et électronique](./CI/Detection_mecanique_electronique.pdf){target=_blank}) ;
 
 === "TRAVAIL À FAIRE"
 
