@@ -273,7 +273,7 @@
 
     - Correction des évaluations d'étude du comportement dynamique du [MELODY](./SE/MELODY-Dynamique.pdf){target="_blank"} et du [X-track](./SE/X-track_Dynamique.pdf){target="_blank"} (cf [X-track_DR-DT](./SE/X-track_DR-DT.pdf){target="_blank"}) ;
 
-    - Eléments de correction des exercices concernant les [Capteurs et les Codeurs de position](./CI/Corrections) ;
+    - Eléments de correction des exercices concernant les [Capteurs et les Codeurs de position](./CI/Correction_Codeur) ;
 
 
 ***
@@ -310,6 +310,18 @@
 - Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
 
 -->
+
+***
+## Le 27/02
+
+=== "CONTENU DE SÉANCE" 
+
+    - Correction Bac Blanc, Exercices des Moteurs à Courant Continu et des [Codeurs de position](./CI/Correction_Codeur){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - ==**Rendre** vos travaux concernant la Lyre Imove 5S, les Moteurs à Courant Continu et les Codeurs de position==
+
 
 ***
 ## Du 05/02
