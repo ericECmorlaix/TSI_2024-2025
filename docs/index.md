@@ -310,6 +310,21 @@
 - Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
 
 -->
+***
+## Le 12/03
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Faire** les activités du notebook [Modelisation_Chaine_De_Puissance-Le_Moteur_CC](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2024-2025/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_CC.ipynb){target="_blank"}
+    [Capytale n° 5fec-5915085](https://capytale2.ac-paris.fr/web/c/5fec-5915085){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2024-2025/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_CC.ipynb){ .md-button .md-button--primary}
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices des Moteurs à Courant Continu et des [Codeurs de position](./CI/Correction_Codeur){target=_blank} ;
+    - **Rendre** vos travaux concernant la Lyre Imove 5S, les Moteurs à Courant Continu et les Codeurs de position==
+
 
 ***
 ## Le 27/02
