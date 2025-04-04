@@ -189,10 +189,9 @@
     
     - Correction du [BB2](./SE/BB2.pdf){target=_blank} ;
     
-  
-=== "TRAVAIL À FAIRE"
 
-   - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
+
 
 ***
 ## Le 9/04
@@ -235,25 +234,8 @@
 
     - Correction [Bac Blanc Ecodark](./SE/23-24_SI_BB1_ecodark.pdf){target="_blank"} ;
 
-
-
-
     
-    
-
-
-
-=== "TRAVAIL À FAIRE"
-
-    - **regarder** les vidéo :
-
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    - **Faire** les questions non traitées du sujet [MELODY](./SE/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.22 puis vérifier vos réponses avec [cette proposition de correction](./SE/MELODY-corrige.pdf){target="_blank"} ;
-    
-    - **Faire** les sujets [EFOIL](./SE/Efoil-2022.pdf){target="_blank"} et [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
+ et [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
 
 ***
 ## Le 23/01
@@ -262,29 +244,9 @@
 
     - Correction des évaluations d'étude du comportement dynamique du [MELODY](./SE/MELODY-Dynamique.pdf){target="_blank"} et du [X-track](./SE/X-track_Dynamique.pdf){target="_blank"} (cf [X-track_DR-DT](./SE/X-track_DR-DT.pdf){target="_blank"}) ;
 
-    - Eléments de correction des exercices concernant les [Capteurs et les Codeurs de position](./CI/Correction_Codeur) ;
-
-
-
-    - Lire le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} ;
-     
-
-
-
-
-
-
-
-           
-
-
     - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf); 
    
     - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
-
-
-
-- Application aux questions 7 et 8 du sujet [Xtrack](./SE/Camera_Mobile.pdf){target="_blank"} ;
 
 ***
 
@@ -292,7 +254,35 @@
 
 - Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
 
+
+   puis vérifier vos réponses avec [cette proposition de correction](./SU/MELODY-corrige.pdf){target="_blank"} ;
+
 -->
+***
+## Du 04/04
+
+=== "CONTENU DE SÉANCE" 
+    
+    - **Finir** [le TP de Régulation Thermique](./RA/TP_thermique/RegulationThermique-TP.pdf){target="_blank"} à l'aide des documents et fichiers `.psimsch`:
+        - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
+        - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
+        - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;
+
+    - **Finir** l'[Exercice 3 du ROBOVOLC](./RA/Exercice_3-ROBOVOLC.pdf){target="_blank"} ;
+    - **Faire** les questions 7 et 8 du sujet [Xtrack](./SU/Camera_Mobile.pdf){target="_blank"} ;
+    - **Faire** les questions non traitées du sujet [Efoil](./SU/Efoil_Sujet-2022.pdf) en particulier les questions 11, 12 et 13 ;
+    - **Faire** les questions non traitées du sujet [MELODY](./SU/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.21, Q1.22 ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **regarder** les vidéos :
+
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
 ***
 ## Du 18/03
 
@@ -314,7 +304,7 @@
 
     - **Rendre** les exercices des Moteurs à Courant Continu et des [Codeurs de position](./CI/Correction_Codeur){target=_blank} ;
     
-    - **regarder** les vidéo :
+    - **regarder** les vidéos :
 
       <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
