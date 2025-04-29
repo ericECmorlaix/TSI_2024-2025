@@ -259,6 +259,21 @@
 
 -->
 ***
+## Le 30/04
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Prendre en main** le système [CREA Slider](){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+    
+    - **Se préparer** pour une évaluation sur la régulation et les asservissements ;
+
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
+***
 ## Du 04/04
 
 === "CONTENU DE SÉANCE" 
