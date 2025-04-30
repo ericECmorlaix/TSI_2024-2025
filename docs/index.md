@@ -263,7 +263,7 @@
 
 === "CONTENU DE SÉANCE" 
 
-    - **Prendre en main** le système [CREA Slider](){target=_blank} ;
+    - **Prendre en main** le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/e63c-6467265){target=_blank} ;
     
 === "TRAVAIL À FAIRE"
 
