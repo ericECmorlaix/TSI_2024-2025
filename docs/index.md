@@ -259,6 +259,20 @@
 
 -->
 ***
+## Les 22 et 23/05
+
+=== "CONTENU DE SÉANCE" 
+
+    - Etude du [distributeur de savon NoTouch](https://capytale2.ac-paris.fr/web/c/f2c7-6729085){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
+
+***
 ## Les 06 et 07/05
 
 === "CONTENU DE SÉANCE" 
