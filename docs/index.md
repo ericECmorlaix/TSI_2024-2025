@@ -259,7 +259,7 @@
 
 -->
 ***
-## Les 22 et 23/05
+## Le 10/06
 
 === "CONTENU DE SÉANCE" 
 
